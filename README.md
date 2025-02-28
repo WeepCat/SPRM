@@ -51,23 +51,8 @@ The main results of our experiments are documented in the paper. For convenience
 
 We welcome contributions from the community. If you have suggestions, bug reports, or improvements, please open an issue or submit a pull request.
 
-## References
-
-Please cite our paper if you use any part of this code or dataset in your work:
-
-```
-@inproceedings{yourpaper2025,
-  title={Score Consistency Meets Performance: An Analysis of Scoring Mechanisms in NLP Models},
-  author={Your Name and Co-author Name},
-  booktitle={Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year={2025}
-}
-```
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com).
