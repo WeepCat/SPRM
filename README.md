@@ -19,7 +19,7 @@ To set up the project locally, please follow the instructions below:
 
    ```sh
    conda create -n sprm python=3.10
-   conda activate sprm # On Windows, use `venv\Scripts\activate`
+   conda activate sprm
    ```
 
 3. Install the required dependencies:
